@@ -1,6 +1,6 @@
 # Absenteeism-Data-EDA-using-Pandas
 
-Problem Statment:
+Problem Statement:
 
 Examine the ‘Absenteeism-data.csv’ carefully. Then, use the following as a guide to how you should prepare the data for further
 analysis:
